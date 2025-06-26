@@ -20,7 +20,7 @@ This is a backend API for an online store built using **Spring Boot**. It suppor
 
 You can access the Swagger UI for testing endpoints here:
 
-👉 [**Swagger UI**](http://localhost:8080/swagger-ui/index.html) 
+👉 [**Swagger UI**](https://spring-boot-store.up.railway.app/swagger-ui/index.html) 
 
 ---
 
